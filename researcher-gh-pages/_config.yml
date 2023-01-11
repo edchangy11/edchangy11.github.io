@@ -1,0 +1,26 @@
+title: Researcher
+url: "https://edchangy11.github.io/"
+baseurl: "/researcher"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+remote_theme: ankitsultana/researcher@gem
+
+footer: yes
+footer_url: "https://edchangy11.github.io/"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
