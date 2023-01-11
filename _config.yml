@@ -7,6 +7,8 @@ markdown: kramdown
 
 tracking_id: #
 
+remote_theme: ankitsultana/researcher@gem
+
 footer: yes
 footer_url: "https://edchangy11.github.io/"
 footer_text: "Page design by Ankit Sultana"
